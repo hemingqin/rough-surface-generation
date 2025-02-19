@@ -6,7 +6,7 @@ This project demonstrates two different approaches to generating 2D random rough
 2. **Spectral (FFT-Based) Method** – Uses an inverse Fourier transform with a user-defined power spectral density (PSD) or correlation function (e.g., Gaussian, exponential).
 
 #Right now, I have finished the two generation methods, the rest will be finished this month
-#02/18/2-25
+#02/18/2025
 #Heming
 
 
