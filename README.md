@@ -4,8 +4,6 @@ A Python package for generating and analyzing random rough surfaces using variou
 
 ## Features
 
-- **Multiple Generation Methods**:
-
   - **Parametric (Double-Sum) Method**: Uses a double summation of cosine terms with power-law amplitudes and random phases
   - **Spectral (FFT-Based) Method**: Uses inverse Fourier transform with user-defined power spectral density
 
