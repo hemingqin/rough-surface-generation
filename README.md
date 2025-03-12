@@ -19,20 +19,6 @@ A Python package for generating and analyzing random rough surfaces using variou
   - Autocorrelation function
   - Power spectral density
 
-## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/rough-surface-generation.git
-   cd rough-surface-generation
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 ### Interactive Interface
@@ -48,6 +34,12 @@ A Python package for generating and analyzing random rough surfaces using variou
    - Adjust surface parameters
    - Generate and visualize surfaces
    - Export surfaces as STL files
+
+
+The simulated 3D plot with default parameters will be like folllowing pictrue.
+
+![image](https://github.com/user-attachments/assets/e8d32fa4-ca7f-48c2-900a-5d7e8224f04a)
+
 
 ### Programmatic Usage
 
